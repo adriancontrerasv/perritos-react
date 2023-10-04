@@ -1,0 +1,14 @@
+.avatar {
+    width: 180px !important;
+    height: 180px !important;
+    align-self: center;
+}
+
+.puppyCard{
+    height: 285px !important;
+    background-color: #fff7b3 !important;
+    border-color: #fff7b3 !important;
+}
+.titleCard{
+    color: #654321 !important;
+}

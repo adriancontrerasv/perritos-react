@@ -1,0 +1,13 @@
+.main-container {
+    background-color: #eefcff;
+    height: 100%; 
+    min-height: 100vh;
+}
+.principal-container{
+    max-width: 1440px !important;
+}
+
+.header{
+    background-image: linear-gradient(#a0ead4, #eefcff);
+    padding-bottom: 20px;
+}
